@@ -96,7 +96,7 @@ A **Semana S** é um evento nacional do Sistema S realizado anualmente, com o ob
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Hugo20006](https://github.com/Hugo20006)** para o evento Semana S — SENAC 2026.
+Desenvolvido por **[hugoopen](https://github.com/hugoopen)** para o evento Semana S — SENAC 2026.
 
 ---
 
